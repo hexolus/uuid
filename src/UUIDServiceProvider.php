@@ -1,10 +1,10 @@
 <?php
 
-namespace Hexolus\UUID;
+namespace Hexolus\Uuid;
 
 use Illuminate\Support\ServiceProvider;
 
-class UUIDSeviceProvider extends ServiceProvider
+class UuidServiceProvider extends ServiceProvider
 {
     public function register()
     {

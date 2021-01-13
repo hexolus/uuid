@@ -1,8 +1,8 @@
 <?php
 
-namespace Hexolus\UUID;
+namespace Hexolus\Uuid;
 
-class UUID extends \Ramsey\Uuid\Uuid {
+class Uuid extends \Ramsey\Uuid\Uuid {
     /**
      * Generate Standard V4 UUID
      * 
