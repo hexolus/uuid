@@ -23,12 +23,12 @@
         ]
     },
     "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        },
         "laravel": {
             "providers": [
                 "Hexolus\\UUID\\UUIDServiceProvider"
-            ],
-            "dont-discover": [
-                "*"
             ]
         }
     },
