@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hexolus\\UUID\\": "src/"
+            "Hexolus\\Uuid\\": "src/"
         },
         "files": [
             "src/helpers.php"
@@ -28,7 +28,7 @@
         },
         "laravel": {
             "providers": [
-                "Hexolus\\UUID\\UUIDServiceProvider"
+                "Hexolus\\Uuid\\UuidServiceProvider"
             ]
         }
     },

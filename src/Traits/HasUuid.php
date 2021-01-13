@@ -18,6 +18,6 @@ trait HasUuid {
     }
 
     public function generateUuid() {
-        return Uuid::generate();
+        return uuid();
     }
 }
